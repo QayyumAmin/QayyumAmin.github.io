@@ -1,0 +1,16 @@
+Abc@12345
+
+
+[ Company ]
+username : kfc
+password : Abc@12345
+
+username :cimb
+password : Abc@12345
+
+
+
+https://jobboard.u-ji.com
+
+
+
